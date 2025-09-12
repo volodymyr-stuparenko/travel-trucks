@@ -89,3 +89,15 @@ npm run build
 ```
 
 ---
+
+## 🌍 Deployment
+
+Deployed on **Vercel/Netlify**:  
+👉 [Live Demo](https://travel-trucks-umber-two.vercel.app/)
+
+---
+
+## 👨‍💻 Author
+
+Developer: **[volodymyr-stuparenko]**  
+GitHub: [volodymyr-stuparenko](https://github.com/volodymyr-stuparenko)
