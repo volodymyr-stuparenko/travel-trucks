@@ -1,6 +1,6 @@
 .background {
   background-image: image-set(
-    url('/images/home-bg-camping.jpg') 1x,
-    url('/images/home-bg-camping@2x.jpg') 2x
+    url('/public/images/home-bg-camping.jpg') 1x,
+    url('/public/images/home-bg-camping@2x.jpg') 2x
   );
 }
