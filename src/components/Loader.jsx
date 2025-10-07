@@ -10,7 +10,7 @@ const Loader = () => {
   return (
     <div>
       <DotLoader
-        color="#b29eff"
+        color="red"
         loading={true}
         cssOverride={override}
         size={27}
